@@ -1,15 +1,3 @@
-# “””
-Investment Report Telegram Bot
-
-Sends a daily investment scoring report to your Telegram chat.
-Covers: PLTR, RTX, DBS, AMD, XOM + LMT, GLD, NVDA, MSFT, XLE
-
-Setup:
-
-1. pip install python-telegram-bot==20.7 schedule requests
-1. Fill in TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID in config.py
-1. python bot.py
-   “””
 
 import asyncio
 import schedule
